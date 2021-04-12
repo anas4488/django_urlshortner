@@ -2,4 +2,4 @@
 
 > This is a URL shortner application made with django.
 
-> Project hosted on heroku (LINK) : urlshortnerdjpy.herokuapp.com
+> Project hosted on heroku (LINK) : https://urlshortnerdjpy.herokuapp.com/
